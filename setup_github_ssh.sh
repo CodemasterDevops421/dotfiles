@@ -25,7 +25,7 @@ echo -e "\nAfter adding the key, press ENTER to continue."
 read
 
 # Set Git remote to SSH
-git remote set-url origin git@github.com:CodemasterDevops421/dotfiles-.git
+git remote set-url origin git@github.com:CodemasterDevops421/dotfiles.git
 
 # Push to main branch
 git push -u origin main
